@@ -1,0 +1,2473 @@
+{
+  "data": [
+    {
+      "location_id": "472632",
+      "name": "Umaid Bhawan - A Heritage Styled Boutique Hotel",
+      "latitude": "26.928415",
+      "longitude": "75.79238",
+      "num_reviews": "4064",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/eb/8b/9c/swimming-pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/eb/8b/9c/swimming-pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/eb/8b/9c/swimming-pool.jpg",
+            "height": "1333"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/eb/8b/9c/swimming-pool.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/eb/8b/9c/swimming-pool.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2017-04-10T00:11:09-0400",
+        "caption": "Swimming Pool",
+        "id": "250317724",
+        "helpful_votes": "22",
+        "published_date": "2017-04-10T00:11:09-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.454294204711914",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "1",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.9765796563798927",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,580 - ₹7,162",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "76335fa8-8782-41a8-96ba-21000d338ae0"
+    },
+    {
+      "location_id": "7747147",
+      "name": "Umaid Haveli Hotel and Resorts",
+      "latitude": "27.029943",
+      "longitude": "75.89602",
+      "num_reviews": "566",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/42/ab/e3/umaid-haveli.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/42/ab/e3/umaid-haveli.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/42/ab/e3/umaid-haveli.jpg",
+            "height": "1333"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/42/ab/e3/umaid-haveli.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/42/ab/e3/umaid-haveli.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2015-07-02T07:00:08-0400",
+        "caption": "pool view",
+        "id": "138587107",
+        "helpful_votes": "11",
+        "published_date": "2015-07-02T07:00:08-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.224562168121338",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "2",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "10.222652312535576",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,081 - ₹7,828",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "9185d22e-d559-482a-8d77-9ef323ab31c7"
+    },
+    {
+      "location_id": "4886617",
+      "name": "Leisure Inn Grand Chanakya",
+      "latitude": "26.916794",
+      "longitude": "75.8079",
+      "num_reviews": "1997",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/40/99/40/leisure-inn-grand-chanakya.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/40/99/40/leisure-inn-grand-chanakya.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4032",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/2a/40/99/40/leisure-inn-grand-chanakya.jpg",
+            "height": "3024"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/40/99/40/leisure-inn-grand-chanakya.jpg",
+            "height": "412"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/40/99/40/leisure-inn-grand-chanakya.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-09-05T09:02:23-0400",
+        "caption": "",
+        "id": "708876608",
+        "helpful_votes": "0",
+        "published_date": "2023-09-05T09:02:23-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.408087730407715",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "3",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#3 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.9493847597928889",
+      "distance_string": null,
+      "bearing": "east",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹2,665 - ₹3,748",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "dca98dbd-27fb-4dda-82c4-ed9feca20921"
+    },
+    {
+      "location_id": "623474",
+      "name": "Hotel Sarang Palace",
+      "latitude": "26.937271",
+      "longitude": "75.796104",
+      "num_reviews": "2155",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/5b/2b/5c/hotel-sarang-palace.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/5b/2b/5c/hotel-sarang-palace.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2247",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/5b/2b/5c/hotel-sarang-palace.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/5b/2b/5c/hotel-sarang-palace.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/5b/2b/5c/hotel-sarang-palace.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2018-08-28T05:21:16-0400",
+        "caption": "",
+        "id": "341519196",
+        "helpful_votes": "2",
+        "published_date": "2018-08-28T05:21:16-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.825444221496582",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "4",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#4 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.6021659574220608",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹2,249 - ₹3,581",
+      "hotel_class": "0.0",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "6c03a39d-837e-4fe8-82de-d9d3cd565a01"
+    },
+    {
+      "location_id": "2687911",
+      "name": "The LaLiT Jaipur",
+      "latitude": "26.840239",
+      "longitude": "75.80736",
+      "num_reviews": "3010",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/08/7c/2d/thelalitjaipur.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/08/7c/2d/thelalitjaipur.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1019",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/29/08/7c/2d/thelalitjaipur.jpg",
+            "height": "809"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/08/7c/2d/thelalitjaipur.jpg",
+            "height": "437"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/08/7c/2d/thelalitjaipur.jpg",
+            "height": "198"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-05-08T01:40:26-0400",
+        "caption": "THELALITJAIPUR",
+        "id": "688421933",
+        "helpful_votes": "0",
+        "published_date": "2023-05-08T01:40:26-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.460999488830566",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "5",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#5 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "5.2014569509172555",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹5,247 - ₹12,159",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "21050219-41c6-4818-834f-6001796cfa35"
+    },
+    {
+      "location_id": "300602",
+      "name": "Trident, Jaipur",
+      "latitude": "26.957432",
+      "longitude": "75.843155",
+      "num_reviews": "4813",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/0b/a2/51/trident-jaipur-entrance.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/0b/a2/51/trident-jaipur-entrance.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4587",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/29/0b/a2/51/trident-jaipur-entrance.jpg",
+            "height": "2976"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/0b/a2/51/trident-jaipur-entrance.jpg",
+            "height": "357"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/0b/a2/51/trident-jaipur-entrance.jpg",
+            "height": "162"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-05-08T22:16:36-0400",
+        "caption": "Trident, Jaipur  - Entrance",
+        "id": "688628305",
+        "helpful_votes": "0",
+        "published_date": "2023-05-08T22:16:36-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.832939147949219",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "6",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#6 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.307793260975949",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹9,577 - ₹13,574",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "632d8f59-ccbf-4830-8b66-5aac022ebd10"
+    },
+    {
+      "location_id": "304576",
+      "name": "Shahpura House",
+      "latitude": "26.9279",
+      "longitude": "75.78766",
+      "num_reviews": "2613",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/4c/36/b4/facade-view.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/4c/36/b4/facade-view.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/4c/36/b4/facade-view.jpg",
+            "height": "854"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/4c/36/b4/facade-view.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/4c/36/b4/facade-view.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-07-09T14:03:21-0400",
+        "caption": "Facade View",
+        "id": "491534004",
+        "helpful_votes": "0",
+        "published_date": "2021-07-09T14:03:21-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.316005706787109",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "7",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#7 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.9919483470804171",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,913 - ₹11,243",
+      "hotel_class": "3.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "3bce8db3-efc4-40dc-8e79-7179afef447d"
+    },
+    {
+      "location_id": "24020689",
+      "name": "The Fern Habitat, Jaipur",
+      "latitude": "26.89867",
+      "longitude": "75.76354",
+      "num_reviews": "131",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/f4/de/e0/the-grand-anukampa-hotel.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/f4/de/e0/the-grand-anukampa-hotel.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/f4/de/e0/the-grand-anukampa-hotel.jpg",
+            "height": "863"
+          },
+          "large": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-w/25/f4/de/e0/the-grand-anukampa-hotel.jpg",
+            "height": "690"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/f4/de/e0/the-grand-anukampa-hotel.jpg",
+            "height": "371"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-09-19T07:59:29-0400",
+        "caption": "",
+        "id": "636804832",
+        "helpful_votes": "0",
+        "published_date": "2022-09-19T07:59:29-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.492104530334473",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "8",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#8 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.101804566229737",
+      "distance_string": null,
+      "bearing": "southwest",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹3,331 - ₹5,663",
+      "hotel_class": "0.0",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "0b936615-5f24-477c-be5a-15d466d0f26e"
+    },
+    {
+      "location_id": "25185978",
+      "name": "Taj Amer, Jaipur",
+      "latitude": "27.016685",
+      "longitude": "75.88085",
+      "num_reviews": "391",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Amer, Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/51/6d/8a/property-facade-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/51/6d/8a/property-facade-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2152",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/51/6d/8a/property-facade-exterior.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/51/6d/8a/property-facade-exterior.jpg",
+            "height": "383"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/51/6d/8a/property-facade-exterior.jpg",
+            "height": "174"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-12-12T03:13:32-0500",
+        "caption": "Property Facade, exterior view",
+        "id": "659647882",
+        "helpful_votes": "2",
+        "published_date": "2022-12-12T03:13:32-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.458651065826416",
+      "ranking_geo": "Amer",
+      "ranking_geo_id": "1096234",
+      "ranking_position": "9",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#9 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "8.92450611852685",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹10,909 - ₹20,903",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=25185978&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdwBMW6ARi-ZnCoSAH87qNi98FCRT-QAwi_o6ND1TsnEjA&bapid=1&cs=1db8f65f740fa12874e5128b59d44ac19",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Celebrating Our Bond",
+            "url": "https://www.tripadvisor.in/ShowSpecialOffer-a_d.25185978-a_offer.11413514-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=25185978&from=api&area=OID:11413514%7COT:1&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=SOIM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdzkxzk5UUDPDbagtG8NKbzEl2n1dGo4Cz0g4ccHhYCffA&cs=1eba09a6b4e7b19b02b573302f825c25b"
+          }
+        ]
+      },
+      "listing_key": "7bfb17c1-acee-4486-9baa-497f94379bd4"
+    },
+    {
+      "location_id": "844647",
+      "name": "Lemon Tree Premier, Jaipur",
+      "latitude": "26.935257",
+      "longitude": "75.791824",
+      "num_reviews": "2466",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/05/33/eb/swimming-pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/05/33/eb/swimming-pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1053",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/05/33/eb/swimming-pool.jpg",
+            "height": "822"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/05/33/eb/swimming-pool.jpg",
+            "height": "429"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/05/33/eb/swimming-pool.jpg",
+            "height": "195"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2016-04-26T06:29:58-0400",
+        "caption": "Swimming Pool",
+        "id": "184890347",
+        "helpful_votes": "8",
+        "published_date": "2016-04-26T06:29:58-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.470973014831543",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "10",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#10 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.4506909130431955",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹3,914 - ₹9,244",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "299802ec-c797-41a8-a62c-2fca01cdd2ab"
+    },
+    {
+      "location_id": "607867",
+      "name": "Umaid Mahal-A Heritage Style Boutique Hotel",
+      "latitude": "26.92784",
+      "longitude": "75.78902",
+      "num_reviews": "2677",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/ae/ba/83/umaid-mahal.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/ae/ba/83/umaid-mahal.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "858",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/ae/ba/83/umaid-mahal.jpg",
+            "height": "564"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/ae/ba/83/umaid-mahal.jpg",
+            "height": "362"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/ae/ba/83/umaid-mahal.jpg",
+            "height": "164"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2017-03-16T11:32:39-0400",
+        "caption": "Umaid Mahal  swimming pool view.",
+        "id": "246332035",
+        "helpful_votes": "10",
+        "published_date": "2017-03-16T11:32:39-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.471330165863037",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "11",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#11 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.9645313302669477",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,580 - ₹6,662",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "deaee220-6315-4b3e-970e-ad744af193d2"
+    },
+    {
+      "location_id": "12113823",
+      "name": "Indana Palace Jaipur",
+      "latitude": "27.014708",
+      "longitude": "75.88064",
+      "num_reviews": "528",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Amer, Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/4f/7c/fa/french-villa.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/4f/7c/fa/french-villa.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1440",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/4f/7c/fa/french-villa.jpg",
+            "height": "861"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/4f/7c/fa/french-villa.jpg",
+            "height": "328"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/4f/7c/fa/french-villa.jpg",
+            "height": "149"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2017-08-17T06:03:07-0400",
+        "caption": " french villa.",
+        "id": "273644794",
+        "helpful_votes": "3",
+        "published_date": "2017-08-17T06:03:07-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.555123329162598",
+      "ranking_geo": "Amer",
+      "ranking_geo_id": "1096234",
+      "ranking_position": "12",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#12 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "8.808254916871281",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹6,995 - ₹18,821",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "25801623-0a2c-4cf0-8ddf-10efae783784"
+    },
+    {
+      "location_id": "9716306",
+      "name": "Hotel Gandharva - A Green Hotel",
+      "latitude": "26.924547",
+      "longitude": "75.80455",
+      "num_reviews": "239",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/da/00/4e/deluxe-room.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/da/00/4e/deluxe-room.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2538",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/da/00/4e/deluxe-room.jpg",
+            "height": "1693"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/da/00/4e/deluxe-room.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/da/00/4e/deluxe-room.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2016-07-05T01:29:54-0400",
+        "caption": "DELUXE ROOM",
+        "id": "198836302",
+        "helpful_votes": "4",
+        "published_date": "2016-07-05T01:29:54-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "3.8007800579071045",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "13",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#13 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.0152969920602224",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹1,666 - ₹6,163",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "e23a2d8d-680b-4aa5-945e-fea0237b8fee"
+    },
+    {
+      "location_id": "3801241",
+      "name": "Radisson Blu Jaipur",
+      "latitude": "26.84252",
+      "longitude": "75.7941",
+      "num_reviews": "3039",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/98/5d/cb/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/98/5d/cb/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/2a/98/5d/cb/exterior.jpg",
+            "height": "707"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/98/5d/cb/exterior.jpg",
+            "height": "380"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/98/5d/cb/exterior.jpg",
+            "height": "173"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-10-15T16:49:52-0400",
+        "caption": "Exterior",
+        "id": "714628555",
+        "helpful_votes": "0",
+        "published_date": "2023-10-15T16:49:52-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.391397953033447",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "14",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#14 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.96580923451207",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹5,663 - ₹12,658",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=3801241&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-L6VrKey2ROnQu8cOxwirvjEgQvbF-RxCCtPEC9wVBB0Q&bapid=1&cs=1593caf5c74381c00c35fa090ff7ecbd5",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Member Only Rate!",
+            "url": "https://www.tripadvisor.in/ShowSpecialOffer-a_d.3801241-a_offer.11404224-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=3801241&from=api&area=OID:11404224%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=SOIM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-LHhxY1GJmAs9_hnAtRN-zyj549h80tQSq0QACXLzJ8_Q&cs=14df59cc7061158e1e29a4feda4ec3539"
+          }
+        ]
+      },
+      "listing_key": "45745bf8-6559-4247-8593-e6c509657e95"
+    },
+    {
+      "location_id": "2064904",
+      "name": "Souvenir Peppermint Hotel",
+      "latitude": "26.940025",
+      "longitude": "75.795555",
+      "num_reviews": "465",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/4a/c0/4b/souvenir-peppermint-hotel.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/4a/c0/4b/souvenir-peppermint-hotel.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/4a/c0/4b/souvenir-peppermint-hotel.jpg",
+            "height": "853"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/4a/c0/4b/souvenir-peppermint-hotel.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/4a/c0/4b/souvenir-peppermint-hotel.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2019-12-14T11:29:04-0500",
+        "caption": "Hotel Souvenir Peppermint Jaipur",
+        "id": "441106507",
+        "helpful_votes": "0",
+        "published_date": "2019-12-14T11:29:04-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "3.6586508750915527",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "15",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#15 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.7876795764796054",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹2,082 - ₹2,748",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "61cb8ac8-180b-4b83-a072-792544871137"
+    },
+    {
+      "location_id": "12967201",
+      "name": "Buena Vista Luxury Resort",
+      "latitude": "26.898449",
+      "longitude": "75.78531",
+      "num_reviews": "358",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Amer, Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/85/2a/a7/buena-vista-resort.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/85/2a/a7/buena-vista-resort.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/85/2a/a7/buena-vista-resort.jpg",
+            "height": "683"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/85/2a/a7/buena-vista-resort.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/85/2a/a7/buena-vista-resort.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2020-01-06T10:21:31-0500",
+        "caption": "Resort Entrance",
+        "id": "444934823",
+        "helpful_votes": "1",
+        "published_date": "2020-01-06T10:21:31-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.67100715637207",
+      "ranking_geo": "Amer",
+      "ranking_geo_id": "1096234",
+      "ranking_position": "16",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#16 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "resort",
+      "subcategory_type_label": "Resort",
+      "distance": "1.188981015080455",
+      "distance_string": null,
+      "bearing": "southwest",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹₹₹",
+      "price": "₹26,066 - ₹32,478",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "0b07d8f6-fd97-4345-aea1-f2740fd365ab"
+    },
+    {
+      "location_id": "646146",
+      "name": "Fort Chandragupt",
+      "latitude": "26.923403",
+      "longitude": "75.80163",
+      "num_reviews": "184",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/ab/40/bb/fort-chandragupt.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/ab/40/bb/fort-chandragupt.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "5365",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/ab/40/bb/fort-chandragupt.jpg",
+            "height": "4023"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/ab/40/bb/fort-chandragupt.jpg",
+            "height": "412"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/ab/40/bb/fort-chandragupt.jpg",
+            "height": "187"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-08-23T02:38:55-0400",
+        "caption": "",
+        "id": "497762491",
+        "helpful_votes": "0",
+        "published_date": "2021-08-23T02:38:55-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "3.0727880001068115",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "17",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#17 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.8338670738307618",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹1,999 - ₹2,998",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "154d84da-d7db-451a-817d-ed59785add55"
+    },
+    {
+      "location_id": "1195235",
+      "name": "Hotel Rajasthan Palace Jaipur",
+      "latitude": "26.899853",
+      "longitude": "75.81995",
+      "num_reviews": "470",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/a9/62/d0/rajasthan-palace-hotel.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/a9/62/d0/rajasthan-palace-hotel.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2048",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/a9/62/d0/rajasthan-palace-hotel.jpg",
+            "height": "1363"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/a9/62/d0/rajasthan-palace-hotel.jpg",
+            "height": "366"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/a9/62/d0/rajasthan-palace-hotel.jpg",
+            "height": "166"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2018-07-12T02:49:46-0400",
+        "caption": "",
+        "id": "329867984",
+        "helpful_votes": "3",
+        "published_date": "2018-07-12T02:49:46-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.543631553649902",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "18",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#18 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.9519767785633755",
+      "distance_string": null,
+      "bearing": "southeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,247 - ₹6,995",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "cbff9fbb-06ae-49e0-9ff8-f732e8ca910d"
+    },
+    {
+      "location_id": "2042446",
+      "name": "Pearl Palace Heritage",
+      "latitude": "26.915886",
+      "longitude": "75.79229",
+      "num_reviews": "1551",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/ef/fa/62/pearl-palace-heritage.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/ef/fa/62/pearl-palace-heritage.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/ef/fa/62/pearl-palace-heritage.jpg",
+            "height": "460"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/ef/fa/62/pearl-palace-heritage.jpg",
+            "height": "247"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/ef/fa/62/pearl-palace-heritage.jpg",
+            "height": "112"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2014-05-29T13:48:42-0400",
+        "caption": "Exterior Shot of our Heritage Property",
+        "id": "99613282",
+        "helpful_votes": "18",
+        "published_date": "2014-05-29T13:48:42-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.70932674407959",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "19",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#19 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.11345088463785784",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,247 - ₹6,746",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "cf4101f8-181e-464d-af39-af0d284581ae"
+    },
+    {
+      "location_id": "2151631",
+      "name": "Jaipur Marriott Hotel",
+      "latitude": "26.841824",
+      "longitude": "75.796234",
+      "num_reviews": "5084",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/6f/5e/d8/outdoor-pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/6f/5e/d8/outdoor-pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/2a/6f/5e/d8/outdoor-pool.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/6f/5e/d8/outdoor-pool.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/6f/5e/d8/outdoor-pool.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-09-26T19:19:42-0400",
+        "caption": "Outdoor Pool",
+        "id": "711941848",
+        "helpful_votes": "0",
+        "published_date": "2023-09-26T19:19:42-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.843468189239502",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "20",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#20 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "5.017854017690559",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹7,662 - ₹15,323",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=Marriott_BA&src=183960675&geo=2151631&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=279522007&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ053eSP5HGKfGvFAKv8OS7yZBhF0HyYS4LkbtZTz46Zo&dated=true&bapid=1&cs=1be3f8c0b8eb4c717bf8825fd635a2452",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.in/ShowSpecialOffer-a_d.2151631-a_offer.10608353-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.in/Commerce?p=Marriott_BA&src=183960675&geo=2151631&from=api&area=OID:10608353%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-I8UXbhrwxOAQdX_ZEqmrauuJ_z31pDREo99S1XGFXf4Q&cs=1b679df19d5f82101be22fc2c63d65c2e"
+          }
+        ]
+      },
+      "listing_key": "b7485fbd-3040-475f-a94f-58ebff62a701"
+    },
+    {
+      "location_id": "2252694",
+      "name": "Rani Mahal - A Heritage Hotel",
+      "latitude": "26.898617",
+      "longitude": "75.784935",
+      "num_reviews": "407",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/03/22/89/f3/rani-mahal-a-heritage.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/03/22/89/f3/rani-mahal-a-heritage.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "524",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/22/89/f3/rani-mahal-a-heritage.jpg",
+            "height": "450"
+          },
+          "large": {
+            "width": "524",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/22/89/f3/rani-mahal-a-heritage.jpg",
+            "height": "450"
+          },
+          "medium": {
+            "width": "238",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/03/22/89/f3/rani-mahal-a-heritage.jpg",
+            "height": "205"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2012-11-26T01:13:11-0500",
+        "caption": "Fassad",
+        "id": "52595187",
+        "helpful_votes": "9",
+        "published_date": "2012-11-26T01:13:11-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.027085304260254",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "21",
+      "ranking_denominator": "2884",
+      "ranking_category": "bb",
+      "ranking": "#21 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "small_hotel",
+      "subcategory_type_label": "Small Hotel",
+      "distance": "1.1874703797974289",
+      "distance_string": null,
+      "bearing": "southwest",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹1,249 - ₹1,416",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "0487043d-75d9-472a-afa3-10bf6be47363"
+    },
+    {
+      "location_id": "550055",
+      "name": "Radisson Hotel Jaipur City Center",
+      "latitude": "26.919582",
+      "longitude": "75.79474",
+      "num_reviews": "2340",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/98/5c/37/hotel-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/98/5c/37/hotel-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/2a/98/5c/37/hotel-exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/98/5c/37/hotel-exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/98/5c/37/hotel-exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-10-15T16:48:07-0400",
+        "caption": "Hotel Exterior",
+        "id": "714628151",
+        "helpful_votes": "0",
+        "published_date": "2023-10-15T16:48:07-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.657382488250732",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "22",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#22 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.38511242516812844",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹7,245 - ₹21,236",
+      "hotel_class": "5.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=550055&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-IidWTNAewaR9RZRMV9GLXFTISGKDtiAgZ33wxLPzBmNQ&bapid=1&cs=1ae62a32336fbb2ac9ca7009be638ffc2",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Member Only Rate!",
+            "url": "https://www.tripadvisor.in/ShowSpecialOffer-a_d.550055-a_offer.11404223-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=550055&from=api&area=OID:11404223%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=SOIM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-L9BZZ93p-06S4KvTh4cgRsVN_fVmsC4EFaV9hNkctMsQ&cs=175a8daa68e003a6ae022ff2200a156a3"
+          }
+        ]
+      },
+      "listing_key": "aa4edb97-bb43-4390-90c6-6992f04d70c7"
+    },
+    {
+      "location_id": "13975152",
+      "name": "Sarovar Premiere Jaipur",
+      "latitude": "26.881962",
+      "longitude": "75.79752",
+      "num_reviews": "1776",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/ff/c1/27/facade.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/ff/c1/27/facade.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/ff/c1/27/facade.jpg",
+            "height": "768"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/c1/27/facade.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/ff/c1/27/facade.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-07-28T11:55:45-0400",
+        "caption": "Facade",
+        "id": "620740903",
+        "helpful_votes": "1",
+        "published_date": "2022-07-28T11:55:45-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.848598480224609",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "23",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#23 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.2561012042125754",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,330 - ₹11,659",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "3a01ed9d-6a7b-4370-ab08-2a2013147a9d"
+    },
+    {
+      "location_id": "1558152",
+      "name": "The Fern - An Ecotel Hotel, Jaipur",
+      "latitude": "26.843502",
+      "longitude": "75.79399",
+      "num_reviews": "2349",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/08/47/71/vls.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/08/47/71/vls.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2592",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/29/08/47/71/vls.jpg",
+            "height": "3872"
+          },
+          "large": {
+            "width": "301",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/08/47/71/vls.jpg",
+            "height": "450"
+          },
+          "medium": {
+            "width": "137",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/08/47/71/vls.jpg",
+            "height": "205"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-05-08T00:50:19-0400",
+        "caption": "VLS",
+        "id": "688408433",
+        "helpful_votes": "0",
+        "published_date": "2023-05-08T00:50:19-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.8406901359558105",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "24",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#24 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.8977673657724115",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹4,330 - ₹6,829",
+      "hotel_class": "4.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "bf4df3ad-bec2-49d9-a788-0377b79c0a00"
+    },
+    {
+      "location_id": "3874018",
+      "name": "ibis Jaipur Civil Lines",
+      "latitude": "26.908314",
+      "longitude": "75.779915",
+      "num_reviews": "1622",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/b0/c3/72/exterior-view.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/b0/c3/72/exterior-view.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/b0/c3/72/exterior-view.jpg",
+            "height": "768"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/b0/c3/72/exterior-view.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/b0/c3/72/exterior-view.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-06-03T02:00:19-0400",
+        "caption": "Exterior view",
+        "id": "598786930",
+        "helpful_votes": "1",
+        "published_date": "2022-06-03T02:00:19-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.806041717529297",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "25",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#25 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "0.8941434511945426",
+      "distance_string": null,
+      "bearing": "southwest",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹3,248 - ₹4,830",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Accor Hotels.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=3874018&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-KT33Qw2I7uZVlA3l2mD24IRupwdGY4wqMMmEGKDC3Lew&bapid=1&cs=14dad7552b05c4303be575c0cb571c3af",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "90597c42-c4f8-4194-aa1c-dd1347c21c88"
+    },
+    {
+      "location_id": "1776910",
+      "name": "Royal Heritage Haveli",
+      "latitude": "26.92514",
+      "longitude": "75.745735",
+      "num_reviews": "1247",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/cb/bb/af/royal-heritage-haveli.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/cb/bb/af/royal-heritage-haveli.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2048",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/cb/bb/af/royal-heritage-haveli.jpg",
+            "height": "1365"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/cb/bb/af/royal-heritage-haveli.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/cb/bb/af/royal-heritage-haveli.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-03-29T04:10:25-0400",
+        "caption": "",
+        "id": "483113903",
+        "helpful_votes": "3",
+        "published_date": "2021-03-29T04:10:25-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.753793239593506",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "26",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#26 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.995775048969977",
+      "distance_string": null,
+      "bearing": "west",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹₹",
+      "price": "₹17,072 - ₹22,402",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.in/Commerce?p=TABAIndependentHotels&src=0&geo=1776910&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=279522007&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkRjj5lR7O6XIuukQ37VTG-LfS1imhfPey7kWRJ16pGf0nLPsVGXsr6-g7ExqW6VJFQ&bapid=1&cs=17b063ec37d98e3ff731313fffede288e",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "65e03dea-af67-43c1-ab8c-f0e2781ac3ad"
+    },
+    {
+      "location_id": "12987373",
+      "name": "SPOT ON 40724 Kukas Guest House",
+      "latitude": "27.009418",
+      "longitude": "75.882195",
+      "num_reviews": "34",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Amer, Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/a6/0f/13/img-20171227-wa0009-largejpg.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/a6/0f/13/img-20171227-wa0009-largejpg.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "960",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/a6/0f/13/img-20171227-wa0009-largejpg.jpg",
+            "height": "1280"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-p/11/a6/0f/13/img-20171227-wa0009-largejpg.jpg",
+            "height": "733"
+          },
+          "medium": {
+            "width": "338",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/a6/0f/13/img-20171227-wa0009-largejpg.jpg",
+            "height": "450"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2018-01-01T12:42:47-0500",
+        "caption": "",
+        "id": "296095507",
+        "helpful_votes": "0",
+        "published_date": "2018-01-01T12:42:47-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "3.3841896057128906",
+      "ranking_geo": "Amer",
+      "ranking_geo_id": "1096234",
+      "ranking_position": "27",
+      "ranking_denominator": "2884",
+      "ranking_category": "bb",
+      "ranking": "#27 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "guest_house",
+      "subcategory_type_label": "Guesthouse",
+      "distance": "8.584157566512197",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹833 - ₹916",
+      "hotel_class": "2.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "1f8b49de-4ffc-4779-ae64-2d6ac271374f"
+    },
+    {
+      "location_id": "445016",
+      "name": "Narain Niwas Palace",
+      "latitude": "26.897717",
+      "longitude": "75.81386",
+      "num_reviews": "406",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/af/31/17/narain-niwas-palace.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/af/31/17/narain-niwas-palace.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/af/31/17/narain-niwas-palace.jpg",
+            "height": "1399"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/af/31/17/narain-niwas-palace.jpg",
+            "height": "385"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/af/31/17/narain-niwas-palace.jpg",
+            "height": "175"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2018-04-19T04:57:34-0400",
+        "caption": "",
+        "id": "313471255",
+        "helpful_votes": "2",
+        "published_date": "2018-04-19T04:57:34-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "3.6686148643493652",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "28",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#28 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.7346763910163183",
+      "distance_string": null,
+      "bearing": "southeast",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹9,910 - ₹17,072",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "cf21111a-3f9e-4989-9802-3a276eaf1a52"
+    },
+    {
+      "location_id": "1027166",
+      "name": "Ramada by Wyndham Jaipur",
+      "latitude": "26.89566",
+      "longitude": "75.82883",
+      "num_reviews": "3069",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/e4/f0/3b/ramada-jaipur.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/e4/f0/3b/ramada-jaipur.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/e4/f0/3b/ramada-jaipur.jpg",
+            "height": "683"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/e4/f0/3b/ramada-jaipur.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/e4/f0/3b/ramada-jaipur.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-06-11T03:27:48-0400",
+        "caption": "Ramada Jaipur",
+        "id": "602206267",
+        "helpful_votes": "0",
+        "published_date": "2022-06-11T03:27:48-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.60671329498291",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "29",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#29 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.571207712661844",
+      "distance_string": null,
+      "bearing": "southeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹",
+      "price": "₹5,080 - ₹9,161",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "485d959c-4089-4308-be58-7e11eb649957"
+    },
+    {
+      "location_id": "308546",
+      "name": "Chokhi Dhani Resort",
+      "latitude": "26.76599",
+      "longitude": "75.836624",
+      "num_reviews": "1267",
+      "timezone": "Asia/Kolkata",
+      "location_string": "Jaipur, Jaipur District, Rajasthan",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/64/14/90/chokhi-dhani-resort.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/64/14/90/chokhi-dhani-resort.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "3680",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/64/14/90/chokhi-dhani-resort.jpg",
+            "height": "2456"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/64/14/90/chokhi-dhani-resort.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/64/14/90/chokhi-dhani-resort.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2019-02-08T01:08:25-0500",
+        "caption": "",
+        "id": "375657616",
+        "helpful_votes": "5",
+        "published_date": "2019-02-08T01:08:25-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Jaipur Places to Stay",
+      "raw_ranking": "4.030753135681152",
+      "ranking_geo": "Jaipur",
+      "ranking_geo_id": "304555",
+      "ranking_position": "30",
+      "ranking_denominator": "2884",
+      "ranking_category": "hotel",
+      "ranking": "#30 Best Value of 2,884 places to stay in Jaipur",
+      "subcategory_type": "resort",
+      "subcategory_type_label": "Resort",
+      "distance": "10.609919621787405",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "₹₹",
+      "price": "₹8,245 - ₹9,494",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "f6b8dfe7-797a-4f0d-b8f5-2c5674472331"
+    }
+  ],
+  "status": {
+    "unfiltered_total_size": "2884",
+    "commerce_country_iso_code": "IN",
+    "autobroadened": true,
+    "progress": "100",
+    "auction_key": "4afd3454dde9449095564f62c7025540",
+    "primary_geo": "304555",
+    "pricing": "all_in_with_exclusions",
+    "doubleClickZone": "as.india.rajasthan.jaipur"
+  },
+  "paging": {
+    "results": "30",
+    "total_results": "2884"
+  }
+}
